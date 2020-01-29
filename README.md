@@ -1,5 +1,11 @@
 # Class Activity 1 part two
 
+### Melina Abella and Kealia Perrine
+Rather than writing the entire tictactoe at once, we implemented a function then wrote the unit test for different cases of the function. 
+Thus, we did not complete the entire tictactoe game yet as we did not finish play_game.
+
+
+
 Tic-Tac-Toe Exercise
 
 ### Problem 1
